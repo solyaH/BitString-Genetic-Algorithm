@@ -1,0 +1,10 @@
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\bin\Debug\Genetic.exe.config
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\bin\Debug\Genetic.exe
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\bin\Debug\Genetic.pdb
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.csprojResolveAssemblyReference.cache
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.Form1.resources
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.Properties.Resources.resources
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.csproj.GenerateResource.cache
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.csproj.CoreCompileInputs.cache
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.exe
+D:\4 курс\Генетичні алгоритми\Genetic\Genetic\obj\Debug\Genetic.pdb
